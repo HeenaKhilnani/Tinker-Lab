@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial scale=1.0">
+<style>
+body{
+background-image: url("C:/Users/User/Desktop/photo.jpg");
+background-repeat:no-repeat;  /*prevents tiling*/
+background-size:cover;    /*image covers the whole screen*/
+background-position:centre;
+}
+</style> 
+</head>
+<body>  
+<h1>CHEFS</h1>
+<p> Welcome to CHEFS</p>
+<br> Where Flavor Meets Tradition
+<marquee scrollamount="5"> 10% off on your first order!!!!.</marquee>
+<br>At CHEFS, we believe every meal should be an experience.Our restaurant brings you the perfect blend of warm hospitality, fresh ingredients, and unforgettable flavors.
+
+<br>Whether you're craving classic favorites or curious to explore something new, our chefs craft each dish with passion and precision. From casual lunches to intimate dinners, we’re here to serve up delicious moments—one plate at a time.
+
+<br>Join us and discover why CHEFS is more than just a place to eat—it's a place to gather, celebrate, and enjoy.
+To avail the offer click on the link below
+<br><a href="https://sitnagpur.edu.in/"> click here </a>
+<br>
+
+Click on the button below to order
+<button onclick="document.location='https://sitnagpur.edu.in/' ">
+ORDER HERE
+</button>
+</body>
+</html>
+
